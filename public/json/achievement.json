@@ -1,0 +1,215 @@
+{
+  "achievementData": {
+    "program": [
+      {
+        "name": "国家基金",
+        "eng": "fund",
+        "child": [
+          {
+            "title": "肖鹏,邹明. 制作填砂管模型的填砂压实装置, 发明专利, 申请号：201710240046.4",
+            "eng": ""
+          }
+        ]
+      },
+      {
+        "name": "“973”国家基础理论研究",
+        "eng": "973",
+        "child": [
+          {
+            "title": "肖鹏,邹明. 制作填砂管模型的填砂压实装置, 发明专利, 申请号：201710240046.4",
+            "eng": ""
+          }
+        ]
+      },
+      {
+        "name": "国家重大专项",
+        "eng": "nation",
+        "child": [
+          {
+            "title": "肖鹏,邹明. 制作填砂管模型的填砂压实装置, 发明专利, 申请号：201710240046.4",
+            "eng": ""
+          }
+        ]
+      },
+      {
+        "name": "省部级科研项目",
+        "eng": "province",
+        "child": [
+          {
+            "title": "肖鹏,邹明. 制作填砂管模型的填砂压实装置, 发明专利, 申请号：201710240046.4",
+            "eng": ""
+          }
+        ]
+      }
+    ],
+    "prize": [
+      {
+        "name": "科研获奖",
+        "eng": "fund",
+        "child": [
+          {
+            "title": "肖鹏,邹明. 制作填砂管模型的填砂压实装置, 发明专利, 申请号：201710240046.4",
+            "eng": ""
+          }
+        ]
+      },
+      {
+        "name": "教学获奖",
+        "eng": "973",
+        "child": [
+          {
+            "title": "肖鹏,邹明. 制作填砂管模型的填砂压实装置, 发明专利, 申请号：201710240046.4",
+            "eng": ""
+          }
+        ]
+      }
+    ],
+    "patent": [
+      {
+        "name": "科研获奖",
+        "eng": "fund",
+        "child": [
+          {
+            "title": "肖鹏,邹明. 制作填砂管模型的填砂压实装置, 发明专利, 申请号：201710240046.4",
+            "eng": ""
+          }
+        ]
+      },
+      {
+        "name": "教学获奖",
+        "eng": "973",
+        "child": [
+          {
+            "title": "肖鹏,邹明. 制作填砂管模型的填砂压实装置, 发明专利, 申请号：201710240046.4",
+            "eng": ""
+          }
+        ]
+      }
+    ],
+    "2017": [
+      {
+        "name": "2017年发表论文",
+        "eng": "fund",
+        "child": [
+          {
+            "title": "肖鹏,邹明. 制作填砂管模型的填砂压实装置, 发明专利, 申请号：201710240046.4",
+            "eng": ""
+          }
+        ]
+      },
+      {
+        "name": "教学获奖",
+        "eng": "973",
+        "child": [
+          {
+            "title": "肖鹏,邹明. 制作填砂管模型的填砂压实装置, 发明专利, 申请号：201710240046.4",
+            "eng": ""
+          }
+        ]
+      }
+    ]
+  },
+  "achievementList": [
+    {
+      "name": "承担项目",
+      "eng": "Program",
+      "url": "/achievement/program",
+      "icon": "briefcase"
+    },
+    {
+      "name": "出版专著",
+      "eng": "Book",
+      "url": "/achievement/book",
+      "icon": "ios-book"
+    },
+    {
+      "name": "所获奖项",
+      "eng": "Prize",
+      "url": "/achievement/prize",
+      "icon": "ios-flag"
+    },
+    {
+      "name": "专利申报",
+      "eng": "Patent",
+      "url": "/achievement/patent",
+      "icon": "map"
+    },
+    {
+      "name": "标志性成果",
+      "eng": "Landmark Achievement",
+      "url": "/achievement/landmark",
+      "icon": "ios-star"
+    }
+  ],
+  "paperList": {
+    "name": "发表论文",
+    "eng": "Paper",
+    "icon": "ios-paper",
+    "child": [
+      {
+        "url": "/achievement/2017",
+        "title": 2017
+      },
+      {
+        "url": "/achievement/2016",
+        "title": 2016
+      }
+    ]
+  },
+  "bookData": [
+    {
+      "type": "出版教材",
+      "eng": "",
+      "child": [
+        {
+          "name": "高等渗流力学",
+          "eng": "",
+          "img": "/book/sl.png",
+          "info": "渗流力学，石油工业出版社，程林松主编。2011年"
+        }
+      ]
+    }
+  ],
+  "markList": {
+    "name": "标志性成果",
+    "eng": "Landmark Achievement",
+    "icon": "ios-star",
+    "child": [
+      {
+        "url": "/achievement/highWaterCut",
+        "title": "高含水油藏",
+        "eng": ""
+      },
+      {
+        "url": "/achievement/carbonate",
+        "title": "碳酸盐岩油气藏",
+        "eng": ""
+      },
+      {
+        "url": "/achievement/lowPerm",
+        "title": "低渗/致密油气",
+        "eng": ""
+      },
+      {
+        "url": "/achievement/tightGas",
+        "title": "致密油气",
+        "eng": ""
+      },
+      {
+        "url": "/achievement/shale",
+        "title": "页岩油气",
+        "eng": ""
+      },
+      {
+        "url": "/achievement/heavyCold",
+        "title": " 稠油冷采",
+        "eng": ""
+      },
+      {
+        "url": "/achievement/heavyHot",
+        "title": "稠油热采",
+        "eng": ""
+      }
+    ]
+  }
+}

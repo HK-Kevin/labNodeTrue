@@ -1,0 +1,128 @@
+[{
+    "title": "在研学生",
+    "eng": "Study",
+    "content": [
+      {
+        "year": "2016级博士",
+        "stu": [
+          {
+            "name": "程明强",
+            "eng": "",
+            "url": "/student/2016/cmq.png"
+          },
+          {
+            "name": "吴永辉",
+            "eng": "",
+            "url": "/student/2016/wyh.png"
+          }
+        ]
+      },
+      {
+        "year": "2016级硕士",
+        "stu": [
+          {
+            "name": "曹猛",
+            "eng": "",
+            "url": "/student/2016/cm.png"
+          },
+          {
+            "name": "陈肖",
+            "eng": "",
+            "url": "/student/2016/cx.png"
+          },
+          {
+            "name": "段碧山",
+            "eng": "",
+            "url": "/student/2016/dbs.png"
+          },
+          {
+            "name": "江俊",
+            "eng": "",
+            "url": "/student/2016/jj.png"
+          },
+          {
+            "name": "康剑钊",
+            "eng": "",
+            "url": "/student/2016/kjz.png"
+          },
+          {
+            "name": "康丽霞",
+            "eng": "",
+            "url": "/student/2016/klx.png"
+          },
+          {
+            "name": "李傲",
+            "eng": "",
+            "url": "/student/2016/la.png"
+          },
+          {
+            "name": "刘彬",
+            "eng": "",
+            "url": "/student/2016/lb.png"
+          },
+          {
+            "name": "黎宁",
+            "eng": "",
+            "url": "/student/2016/ln.png"
+          },
+          {
+            "name": "李胜",
+            "eng": "",
+            "url": "/student/2016/lx.png"
+          },
+          {
+            "name": "吴军",
+            "eng": "",
+            "url": "/student/2016/wj.png"
+          },
+          {
+            "name": "辛晶",
+            "eng": "",
+            "url": "/student/2016/xj.png"
+          },
+          {
+            "name": "夏赟",
+            "eng": "",
+            "url": "/student/2016/xy.png"
+          },
+          {
+            "name": "杨琳琳",
+            "eng": "",
+            "url": "/student/2016/yll.png"
+          },
+          {
+            "name": "杨梦露",
+            "eng": "",
+            "url": "/student/2016/yml.png"
+          },
+          {
+            "name": "周中豪",
+            "eng": "",
+            "url": "/student/2016/zzh.png"
+          },
+        ]
+      }
+    ]
+  },
+   {
+    "title": "毕业学生",
+    "eng": "Graduate",
+    "content": [
+      {
+        "year": "2016级博士",
+        "stu": [
+          {
+            "name": "程明强",
+            "eng": "",
+            "url": "/student/2016/cmq.png"
+          },
+          {
+            "name": "吴永辉",
+            "eng": "",
+            "url": "/student/2016/wyh.png"
+          }
+        ]
+      }
+    ]
+  }
+]

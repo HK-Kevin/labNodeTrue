@@ -1,0 +1,112 @@
+{
+  "news": {
+    "img": [
+      "/news/badminton.jpg",
+      "/news/basketball.jpg"
+    ],
+    "title": [
+      {
+        "name": "2017年6月邀请University of Oklahoma邬星儒进行学术讲座",
+        "eng": "haha"
+      },
+      {
+        "name": "2017年6月邀请University of Oklahoma邬星儒进行学术讲座",
+        "eng": "haha"
+      },
+      {
+        "name": "2017年6月邀请University of Oklahoma邬星儒进行学术讲座",
+        "eng": "haha"
+      }
+    ]
+  },
+  "research": [
+    {
+      "main": {
+        "title": "复杂油气藏建模及数值模拟",
+        "eng": "complex oil"
+      },
+      "items": [
+        {
+          "router": "/highWaterCut",
+          "name": "· 高含水油藏",
+          "eng": "· HighWaterCut"
+        },
+        {
+          "router": "/carbonate",
+          "name": "· 碳酸盐岩油气藏",
+          "eng": "· HighWaterCut"
+        },
+        {
+          "router": "/lowPerm",
+          "name": "· 低渗/致密油气",
+          "eng": "· HighWaterCut"
+        }
+      ]
+    },
+    {
+      "main": {
+        "title": "致密/页岩油气渗流机理及应用",
+        "eng": "complex oil"
+      },
+      "items": [
+        {
+          "router": "/tightOil",
+          "name": " · 致密油气",
+          "eng": "· HighWaterCut"
+        },
+        {
+          "router": "/shaleGas",
+          "name": " · 页岩油气",
+          "eng": "· HighWaterCut"
+        }
+      ]
+    },
+    {
+      "main": {
+        "title": " 稠油开采理论与评价技术",
+        "eng": "complex oil"
+      },
+      "items": [
+        {
+          "router": "/heavyHotOil",
+          "name": " · 稠油热采",
+          "eng": "· HighWaterCut"
+        },
+        {
+          "router": "/heavyColdOil",
+          "name": " · 稠油冷采",
+          "eng": "· HighWaterCut"
+        }
+      ]
+    }
+  ],
+  "team": [
+    "/teacher/cls.jpg",
+    "/teacher/lcl.jpg",
+    "/teacher/hsj.jpg",
+    "/teacher/xyc.jpg",
+    "/teacher/cry.jpg"
+  ],
+  "lab": [
+    "/lab/fyf.jpg",
+    "/lab/gjcsagd.png",
+    "/lab/hshyb.jpg",
+    "/lab/lby.jpg",
+    "/lab/qtzz.jpg",
+    "/lab/sq1.jpg",
+    "/lab/sq2.jpg",
+    "/lab/sw.jpg",
+    "/lab/swmn.jpg",
+    "/lab/xwj.jpg"
+  ],
+  "video": {
+    "url": "",
+    "poster": "/video/poster.png"
+  },
+  "article": [
+    "Cheng L, Gu H, Huang S. A comprehensive mathematical model for estimating oil drainage rate in SAGD process considering wellbore/formation coupling effect[J]. Heat & Mass Transfer, 2016:1-19.",
+    "Huang S, Xiong H, Wei S, et al. Physical simulation of the interlayer effect on SAGD production in mackay river oil sands[J]. Fuel, 2016, 183:373-385.",
+    "Cao R, Wang Y, Cheng L, et al. A New Model for Determining the Effective Permeability of Tight Formation[J]. Transport in Porous Media, 2016, 112(1):21-37.",
+    "Jia P, Cheng L, Huang S, et al. Pressure-Transient Analysis of a Finite-Conductivity Inclined Fracture Connected to a Slanted Wellbore[J]. Spe Journal, 2016."
+  ]
+}

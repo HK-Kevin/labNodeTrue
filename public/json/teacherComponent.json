@@ -1,0 +1,31 @@
+[{
+    "name": "程林松",
+    "eng": "Cheng",
+    "url": "/team/cls",
+    "img": "/teacher/cls.jpg"
+  },
+  {
+    "name": "李春兰",
+    "eng": "Li",
+    "url": "/team/lcl",
+    "img": "/teacher/lcl.jpg"
+  },
+  {
+    "name": "黄世军",
+    "eng": "Huang",
+    "url": "/team/hsj",
+    "img": "/teacher/hsj.jpg"
+  },
+  {
+    "name": "薛永超",
+    "eng": "Xue",
+    "url": "/team/xyc",
+    "img": "/teacher/xyc.jpg"
+  },
+  {
+    "name": "曹仁义",
+    "eng": "Cao",
+    "url": "/team/cry",
+    "img": "/teacher/cry.png"
+  }
+]
